@@ -1,2 +1,2 @@
-# Open_Clciker-Icons
+# Open_Clicker-Icons
 The icons used in open clicker and other programs
